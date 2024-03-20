@@ -22,10 +22,6 @@ dependencies:
   flutter_inappwebview_platform_interface:
     path: ../flutter_inappwebview_platform_interface
 
-dependency_overrides:
-  flutter_inappwebview_platform_interface:
-    path: ../flutter_inappwebview_platform_interface
-
 dev_dependencies:
   flutter_test:
     sdk: flutter
