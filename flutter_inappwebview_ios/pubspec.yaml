@@ -22,7 +22,7 @@ dependencies:
   flutter_inappwebview_platform_interface:
     git:
       url: https://github.com/Shoptagr/flutter_inappwebview.git
-      ref: master
+      ref: solve-issue-with-flutter_inappwebview_platform_interface
       path: flutter_inappwebview_platform_interface
 
 dev_dependencies:
