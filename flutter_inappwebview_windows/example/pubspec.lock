@@ -89,7 +89,7 @@ packages:
       path: "../../flutter_inappwebview_platform_interface"
       relative: true
     source: path
-    version: "1.0.10"
+    version: "1.0.12"
   flutter_inappwebview_windows:
     dependency: "direct main"
     description:
